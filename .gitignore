@@ -1,0 +1,24 @@
+
+
+# dependencies
+/node_modules
+
+# IDEs and editors
+/.idea
+
+# misc
+/.sass-cache
+/connect.lock
+/coverage
+/libpeerconnection.log
+npm-debug.log
+yarn-error.log
+testem.log
+/typings
+
+# System Files
+package-lock.json
+/app/*.js
+/app/*.js.map
+/app/**/store.js
+/app/**/store.js.map
